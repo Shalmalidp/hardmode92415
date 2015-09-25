@@ -1,0 +1,47 @@
+header{
+width:100%;
+height: 25px;
+}
+.header-bar{
+  height: 20px;
+  background-color: #FA6838;
+  padding-top: 5px;
+  margin-bottom: 0;
+
+}
+.header-list{
+  float: left;
+  list-style: none;
+  font-size: 8px;
+  padding-right: 12px;
+}
+#opt1{
+  line-height: 12px;
+  background-color: #C7532B;
+}
+.header-image-options{
+
+
+}
+.logo img{
+  width :100px;
+  float:left;
+  margin :0 60px 0 0;
+  padding: 0;
+}
+.nav-bar{
+  float:left;
+padding-left:0;
+  height: 20px;
+  padding-top: 5px;
+}
+.division2{
+  display: inline-block;
+  list-style: none;
+  font-size: 13px;
+  font-style: 
+  font-family: 'Yanone Kaffeesatz';
+  padding-right: 10px;
+}
+
+
